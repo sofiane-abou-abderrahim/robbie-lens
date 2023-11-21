@@ -15,12 +15,8 @@ h1 {
   font-family: 'Montserrat', sans-serif;
 }
 
-p {
-  font-size: 1.1em;
-  font-family: 'Manrope', sans-serif;
-}
-
+p,
 li {
-  font-size: 1em;
+  font-size: 1.1em;
   font-family: 'Manrope', sans-serif;
 }
