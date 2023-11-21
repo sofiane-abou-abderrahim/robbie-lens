@@ -33,3 +33,8 @@ li {
 .pied-de-page {
   background-color: white;
 }
+
+.cta {
+  background: linear-gradient(#8e86b5, #acaeed);
+  color: white;
+}
