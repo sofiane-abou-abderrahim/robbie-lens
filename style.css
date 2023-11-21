@@ -53,3 +53,7 @@ li {
   border-right: 1px solid #8e86b5;
   border-bottom: 1px solid #8e86b5;
 }
+
+.lien-icone:hover {
+  opacity: 0.5;
+}
