@@ -20,3 +20,8 @@ li {
   font-size: 1.1em;
   font-family: 'Manrope', sans-serif;
 }
+
+.entete,
+.pied-de-page {
+  background-color: white;
+}
