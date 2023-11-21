@@ -39,3 +39,8 @@ li {
   color: white;
   border-radius: 50px;
 }
+
+.carre-contenu {
+  border-right: 1px solid #8e86b5;
+  border-bottom: 1px solid #8e86b5;
+}
