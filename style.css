@@ -19,10 +19,14 @@ h1 {
   font-family: 'Montserrat', sans-serif;
 }
 
+h2 {
+  color: #f9f8ff;
+}
+
 p,
 li {
   font-size: 1.1em;
-  font-family: 'Manrope', sans-serif;
+  color: #f9f8ff;
 }
 
 .entete,
