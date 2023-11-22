@@ -62,3 +62,7 @@ footer {
 .lien-icone:hover {
   opacity: 0.5;
 }
+
+section {
+  padding: 80px;
+}
