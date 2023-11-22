@@ -67,3 +67,8 @@ footer {
 section {
   padding: 80px;
 }
+
+.a-propos-main {
+  width: 50%;
+  margin: auto;
+}
