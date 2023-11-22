@@ -54,14 +54,22 @@ footer {
   text-decoration: none;
 }
 
+.lien-icone:hover {
+  opacity: 0.5;
+}
+
 .carre-contenu {
   border-right: 1px solid #8e86b5;
   border-bottom: 1px solid #8e86b5;
   padding: 50px;
 }
 
-.lien-icone:hover {
-  opacity: 0.5;
+.carre-contenu h2 {
+  margin-top: 30px;
+}
+
+.carre-contenu ul {
+  margin-top: 30px;
 }
 
 section {
