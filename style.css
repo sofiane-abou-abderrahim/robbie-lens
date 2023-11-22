@@ -33,8 +33,8 @@ li {
   color: #f9f8ff;
 }
 
-.entete,
-.pied-de-page {
+nav,
+footer {
   background-color: white;
 }
 
