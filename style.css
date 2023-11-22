@@ -86,7 +86,8 @@ section {
   margin: auto;
 }
 
-nav {
+nav,
+footer {
   display: flex;
   flex-direction: row;
   align-items: center;
