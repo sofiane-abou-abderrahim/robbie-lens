@@ -96,3 +96,8 @@ nav {
 nav a {
   margin-left: 30px;
 }
+
+.accueil-introduction {
+  display: flex;
+  flex-direction: row;
+}
