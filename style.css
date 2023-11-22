@@ -44,6 +44,7 @@ footer {
 }
 
 .cta {
+  display: inline-block;
   background: linear-gradient(#8e86b5, #acaeed);
   color: white;
   border-radius: 50px;
