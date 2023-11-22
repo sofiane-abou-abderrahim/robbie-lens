@@ -100,4 +100,8 @@ nav a {
 .accueil-introduction {
   display: flex;
   flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  margin: auto;
 }
