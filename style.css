@@ -47,6 +47,7 @@ footer {
   background: linear-gradient(#8e86b5, #acaeed);
   color: white;
   border-radius: 50px;
+  padding: 20px 30px;
 }
 
 .cta:hover {
