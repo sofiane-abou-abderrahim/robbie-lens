@@ -80,3 +80,9 @@ nav {
 nav a {
   margin-left: 30px;
 }
+
+@media screen and (max-width: 996px) {
+  h1 {
+    font-size: 2em;
+  }
+}
