@@ -82,6 +82,21 @@ nav a {
 }
 
 @media screen and (max-width: 996px) {
+  header nav {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  header nav img {
+    margin-bottom: 20px;
+  }
+
+  header,
+  footer {
+    padding: 20px 20px;
+  }
+
   h1 {
     font-size: 2em;
   }
@@ -90,7 +105,8 @@ nav a {
     padding: 50px 20px 50px 20px;
   }
 
-  header nav {
-    flex-direction: column;
+  nav a {
+    margin-left: 10px;
+    margin-right: 10px;
   }
 }
