@@ -20,7 +20,7 @@
 .accueil-introduction {
   display: flex;
   flex-direction: row;
-  width: 60%;
+  max-width: 1000px;
   align-items: flex-start;
   margin: auto;
 }
@@ -46,7 +46,7 @@
 form {
   display: flex;
   flex-direction: column;
-  width: 85%;
+  max-width: 1000px;
   margin: auto;
   color: white;
 }
